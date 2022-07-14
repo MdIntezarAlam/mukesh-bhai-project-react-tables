@@ -1,0 +1,31 @@
+.managebrand_table_container {
+    width: 100%;
+    height: 400px;
+    /* background-color: #f0e5e5; */
+    background-color: #FFFFFF;
+    box-shadow: #0000003d 0px 3px 8px;
+    padding: 2px;
+}
+
+.managebrand_button {
+    width: 100%;
+    padding: 19px;
+    display: flex;
+    justify-content: flex-end;
+    background-color: #fff;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+    
+}
+
+.managebrand_table {
+    width: 100%;
+    /* height: 70%; */
+    margin-top: 0.1%;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+
+}
+
+.all_img {
+    width: 45x;
+    height: 45px;
+}

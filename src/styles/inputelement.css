@@ -1,0 +1,113 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+.blue__container {
+    width: 100%;
+    height: 100vh;
+    background-color: #00FFFF;
+    overflow: hidden;
+}
+
+.form__box {
+    /* margin: 50% auto; */
+    /* min-height: 60vh; */
+    width: 380px;
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.inputs {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 10px;
+    padding: 5px;
+    width: 90%;
+}
+
+.input__ele input {
+    width: 100%;
+    padding: 8px;
+    font-size: 20px;
+    border-style: none;
+    border: 1px solid gray;
+    text-align: center;
+    border-radius: 5px;
+}
+
+
+
+.full__center {
+    display: grid;
+    place-items: center;
+}
+
+.reg_heading {
+    /* display: inline-block; */
+    /* margin-top: 40px; */
+    /* margin-left: 32%; */
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    font-size: 40PX;
+}
+
+.account {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.buttons {
+    width: 75%;
+    align-items: center;
+    padding: 8px;
+    font-size: 20px;
+    background-color: blue;
+    color: #fff;
+    outline: none;
+    border-style: none;
+    border-radius: 10px;
+    cursor: pointer;
+    margin: 10px;
+}
+
+
+.already_have_an_account {
+    /* display: inline-block; */
+    /* font-size: 18px; */
+    /* margin-left: 17%; */
+    /* margin-top: 10px; */
+    /* cursor: pointer; */
+    color: #0b0c0c;
+}
+
+.already_have_an_account a {
+    text-decoration: none;
+    color: rgb(175, 15, 219);
+}
+
+
+.error {
+    color: red;
+    font-size: 15px;
+}
+
+.reg_success {
+    margin: 10px;
+    font-size: 30px;
+    font-weight: 600;
+    color: rgb(1, 1, 1);
+    background-color: rgb(255, 255, 255);
+    width: 95%;
+    text-align: center;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+}

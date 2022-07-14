@@ -1,0 +1,11 @@
+.manageuser_row_detals {
+    margin-left: 20px !important;
+    width: 90% !important;
+    padding: 14px !important;
+    font-size: 20px !important;
+    color: #0BBEE2;
+    text-align: center;
+    align-items: center;
+    margin-bottom: 10px !important;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+}

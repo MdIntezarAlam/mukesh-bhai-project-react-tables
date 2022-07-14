@@ -1,0 +1,27 @@
+
+.manageroles_table_container{
+    width: 100%;
+    height: 408px;
+    background-color: #FFFFFF;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+
+    padding: 3px;
+}
+.managerolesbutton{
+    width: 100%;
+    padding: 19px;
+    margin-top: 2px;
+    display: flex;
+    justify-content: flex-end;
+    background-color: #fdfbfb ;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+    
+}
+
+.manageroles_table{
+    width: 100%;
+    /* box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px; */
+    /* box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px; */
+
+}
+
